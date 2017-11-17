@@ -1,5 +1,3 @@
-# math_sketchbook
-
 Experimentations with p5.js
 ===========================
 
